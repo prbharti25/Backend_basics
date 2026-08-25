@@ -1,0 +1,26 @@
+{
+  "name": "api_level_validation",
+  "version": "1.0.0",
+  "description": "API level validation and digital signature",
+  "homepage": "https://github.com/prbharti25/Backend_basics#readme",
+  "bugs": {
+    "url": "https://github.com/prbharti25/Backend_basics/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prbharti25/Backend_basics.git"
+  },
+  "license": "ISC",
+  "author": "Pushp Raj Bharti",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.2.1",
+    "mongoose": "^9.8.0",
+    "validator": "^13.15.35"
+  }
+}

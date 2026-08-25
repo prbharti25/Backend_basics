@@ -1,0 +1,11 @@
+// import {sum, diff} from "./second.js";
+import sum from "./second.js";
+
+// to run without .mjs extension we created package.json so that node gets 
+// compatible with modern type that is import/export (MJS) using ECMA
+
+sum(34,5);
+diff(34,5);
+console.log("Hello World!");
+
+// Node: by default understands CJS.  

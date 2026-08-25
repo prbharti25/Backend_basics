@@ -1,0 +1,23 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "Learning Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prbharti25/Backend_basics.git"
+  },
+  "author": "Pushp Raj Bharti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prbharti25/Backend_basics/issues"
+  },
+  "homepage": "https://github.com/prbharti25/Backend_basics#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.4.1"
+  }
+}
